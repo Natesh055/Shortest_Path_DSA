@@ -36,12 +36,12 @@ To run this project, you will need a C++ compiler. The steps below outline how t
 
 2. **Compile the code**:
     ```bash
-    g++ -o dijkstra dijkstra.cpp
+    g++ -o main main.cpp
     ```
 
 3. **Run the program**:
     ```bash
-    ./dijkstra
+    ./main
     ```
 
 ## Usage
